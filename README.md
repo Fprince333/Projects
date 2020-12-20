@@ -6,4 +6,5 @@
 ## Weber Shandwick
 * [Mars Homepage](https://www.mars.com)
 * [Asthma Card Flips](https://flasthmacards.build.webershandwick.com)
-* [Cheez-It Avatar Creations](https://flcheezits.build.webershandwick.com)
+* [Covid Data Visualization](https://covid-data-vis.azurewebsites.net)
+* [Cheez-It® Wheel Live Fans](https://www.cheezit.com/en_US/cheezitbowl.html)
