@@ -12,3 +12,6 @@
 * [Seafood from Maine](https://seafoodfrommaine.com/)
 * [Animated Banners](https://resolute.will.resolute.com/banner/GSK/Bexsero/Meningitis/2021)
 * [Flu Shot Fridays](https://www.flushotfridays.com/)
+## Personal
+* [Netflix Repeat One](https://chrome.google.com/webstore/detail/netflix-repeat-one/nakdfnainfphcljekajcdbpdefmccccp)
+* [Vicky Scripts](https://github.com/Fprince333/VickyScripts)
