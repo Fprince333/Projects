@@ -9,3 +9,4 @@
 ## Resolute Digital
 * [Seafood from Maine](https://seafoodfrommaine.com/)
 * [Animated Banners](https://resolute.will.resolute.com/banner/GSK/Bexsero/Meningitis/2021)
+* [Flu Shot Fridays](https://www.flushotfridays.com/)
